@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3]]></item>
+	<item id="Time"><![CDATA[2013-09-29 19:42]]></item>
+	<item id="From"><![CDATA[Discuz! Board (http://bbs.t.com/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[Î§ÆåÔÚÏß´òÆ×]]></item>
+			<item id="identifier"><![CDATA[zxsq_sgfview]]></item>
+			<item id="description"><![CDATA[Î§ÆåÔÚÏß´òÆ×¹¤¾ß£¬ÏÔÊ¾SGF¸ñÊ½ÆåÆ×]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[zxsq_sgfview/]]></item>
+			<item id="copyright"><![CDATA[@tecbbs.com]]></item>
+			<item id="version"><![CDATA[v1.2]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[tips]]></item>
+					<item id="menu"><![CDATA[ÖØÒªËµÃ÷]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="1">
+					<item id="name"><![CDATA[sgfview]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X1.5,X2,X2.5,X3,X3.1]]></item>
+		<item id="var">
+			<item id="0">
+				<item id="displayorder"><![CDATA[0]]></item>
+				<item id="title"><![CDATA[´òÆ×³ÌÐò]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[seletSgfviewer]]></item>
+				<item id="type"><![CDATA[select]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[1 = sgfview
+2 = FlashGoview
+3 = goswf]]></item>
+			</item>
+			<item id="1">
+				<item id="displayorder"><![CDATA[1]]></item>
+				<item id="title"><![CDATA[ÆåÅÌ¿í¶È]]></item>
+				<item id="description"><![CDATA[²»Í¬´òÆ×³ÌÐòÐèÒªµÄ¿í¸ß²»Ò»Ñù£¬½¨ÒéÅäÖÃ£ºsgfview: 350x600 , FlashGoview: 750x550, goswf:  640x480]]></item>
+				<item id="variable"><![CDATA[goWidth]]></item>
+				<item id="type"><![CDATA[number]]></item>
+				<item id="value"><![CDATA[350]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="2">
+				<item id="displayorder"><![CDATA[2]]></item>
+				<item id="title"><![CDATA[ÆåÅÌ¸ß¶È]]></item>
+				<item id="description"><![CDATA[µ±³¤¿í±ÈÀý²»ºÏÀíÊ±£¬¸ß¶È»á×Ô¶¯µ÷Õû]]></item>
+				<item id="variable"><![CDATA[goHeight]]></item>
+				<item id="type"><![CDATA[number]]></item>
+				<item id="value"><![CDATA[600]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="3">
+				<item id="displayorder"><![CDATA[3]]></item>
+				<item id="title"><![CDATA[ÊÇ·ñÏÔÊ¾±à¼­Æ÷°´Å¥]]></item>
+				<item id="description"><![CDATA[ÉèÖÃÎª ·ñ Ê± £¬½«²»ÏÔÊ¾±à¼­Æ÷°´Å¥£¬´ËÊ±ÄúÐèÒªÓÃÊäÈë [go] sgf´úÂë [/go]µÄ·½·¨Ê¹ÓÃ²å¼þ¡£Äú±à¼­Æ÷Í¼±ê¹ý¶àÊ±¿ÉÒÔ¿¼ÂÇ´ËÏîÉèÖÃ¡£]]></item>
+				<item id="variable"><![CDATA[displayBtn]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="4">
+				<item id="displayorder"><![CDATA[4]]></item>
+				<item id="title"><![CDATA[¿ÉÓÃ°å¿é]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[isenable]]></item>
+				<item id="type"><![CDATA[forums]]></item>
+				<item id="extra"><![CDATA[]]></item>
+				<item id="__value">
+					<item id="0"><![CDATA[37]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id="title"><![CDATA[²åÈëSGFÆåÆ×]]></item>
+				<item id="l_submit"><![CDATA[Ìá½»]]></item>
+				<item id="l_close"><![CDATA[¹Ø±Õ]]></item>
+				<item id="l_help"><![CDATA[ÓÃ¼ÇÊÂ±¾´ò¿ªSGFÆåÆ×£¬¸´ÖÆÎÄ±¾µ½ÉÏÃæÎÄ±¾¿òÖÐ]]></item>
+				<item id="l_tips"><![CDATA[ÌáÊ¾]]></item>
+				<item id="l_sgf"><![CDATA[ÆåÆ×]]></item>
+				<item id="error"><![CDATA[(;CA[gb2312]SZ[13]C[SGF´íÎó,ÇëÊ¹ÓÃ±ê×¼´òÆ×¹¤¾ß,×¢ÊÍÖÐÇëÎð°üº¬ÌØÊâ×Ö·û])]]></item>
+				<item id="l_tishi"><![CDATA[µ±´òÆ×³ÌÐòÑ¡ÔñÎª FlashGoview Ê±£¬¿ÉÄÜ»á³öÏÖ RSL Error 1 of 1 µÄ´íÎó£¬Çë½« source/plugin/zxsq_sgfview/tools/flashgoview Ä¿Â¼ÏÂµÄframework_3.0.0.477.swf£¬framework_3.0.0.477.swz£¬Á½¸öÎÄ¼þ¸´ÖÆµ½ÍøÕ¾¸ùÄ¿Â¼¡£]]></item>
+				<item id="l_tishi2"><![CDATA[ÉùÒô¼°±íÇéÎÄ¼þÒ²ÓÐ´ËÎÊÌâ£¬Çë½«soundÄ¿Â¼¸´ÖÆÒ»·Ýµ½ÍøÕ¾¸ùÄ¿Â¼£¬ÕâÑù²Å¿ÉÒÔÌýµ½Âä×ÓÉù]]></item>
+				<item id="l_tishi3"><![CDATA[Ä¿Ç°ÔÝÊ±Ö»ÄÜÍ¨¹ýÕâÖÖ·½·¨½â¾öÎÊÌâ,¸øÄú´øÀ´µÄ²»±ã»¹ÇëÁÂ½â]]></item>
+			</item>
+			<item id="templatelang">
+				<item id="info"><![CDATA[Ä£°åÎÄ¼þµÄÓïÑÔ°ü]]></item>
+			</item>
+			<item id="installlang">
+				<item id="info"><![CDATA[°²×°¡¢Éý¼¶¡¢Ð¶ÔØ½Å±¾ÓÃµÄÓïÑÔ°ü]]></item>
+			</item>
+		</item>
+	</item>
+</root>

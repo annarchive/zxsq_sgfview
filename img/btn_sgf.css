@@ -1,0 +1,5 @@
+/* CSS Document */
+	#btn_sgf { background:transparent url("./sgf.jpg") no-repeat 0 0; overflow: hidden;background-position: 7px 4px;}
+		.b2r #btn_sgf	{ background-position: 0px 1px; }
+	/* 以上添加编辑器中的sgf按钮 */
+
